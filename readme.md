@@ -3,9 +3,30 @@
 ## 相关仓库
 
 - [Wechat-Backend](https://github.com/carzygod/wechatmpc-backend)
-
 - [Wechat-Miniapp](https://github.com/carzygod/wechatmpc-miniapp)
 - Demo
+
+## 基础结构
+
+- #### Fontend Miniapp
+
+  - 用户passkey/password setting （获取uniqueID）
+  - 本地私钥拼接（Nacl）
+    - Password/Passkey + UUID(user-uni-id) +empty-keyword-rules
+    - Bip39 派生
+  - 签名需求数据获取（缓存ID）
+  - 多种规范签名构建
+    - Ether.js
+    - SolanaWeb3.js
+    - XMR.js
+    - Bip.js
+    - conflux-sdk-js
+  - 结果上报缓存
+
+- ### Backend Express
+
+  - 临时缓存上报
+  - 临时缓存公示
 
 ## 背景概述
 
