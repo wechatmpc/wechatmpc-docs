@@ -4,6 +4,7 @@
 
 - [Wechat-Backend](https://github.com/carzygod/wechatmpc-backend)
 - [Wechat-Miniapp](https://github.com/carzygod/wechatmpc-miniapp)
+- [Wechat-Mpc-Core](https://github.com/carzygod/wechatmpc-wallet-core)
 - Demo
 
 ## 基础结构
@@ -27,6 +28,7 @@
 
   - 临时缓存上报
   - 临时缓存公示
+  - QR generator
 
 ## 背景概述
 
