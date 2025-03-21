@@ -2,9 +2,9 @@
 
 ## 相关仓库
 
-- [Wechat-Backend](https://github.com/carzygod/wechatmpc-backend)
-- [Wechat-Miniapp](https://github.com/carzygod/wechatmpc-miniapp)
-- [Wechat-Mpc-Core](https://github.com/carzygod/wechatmpc-wallet-core)
+- [Wechat-Backend](https://github.com/wechatmpc/wechatmpc-backend)
+- [Wechat-Miniapp](https://github.com/wechatmpc/wechatmpc-miniapp)
+- [Wechat-Mpc-Core](https://github.com/wechatmpc/wechatmpc-wallet-core)
 - Demo
 
 ## 基础结构
